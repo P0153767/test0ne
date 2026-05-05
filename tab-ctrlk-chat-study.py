@@ -74,7 +74,7 @@ else:
     print(f"{name} 你还没有成年")
 print("欢迎光临")
 
-#checkout本地master分支
+#checkout远程master分支
 
 
 
